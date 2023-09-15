@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Jost&family=Lato:wght@400;700&family=Montserrat:wght@200;400;500;600;700;800;900&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&family=Nunito:wght@200;400;600;700;800;900;1000&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:wght@400;500;600;700;800&family=Roboto:wght@300;400;500;700;900&family=Work+Sans:wght@100;200;300;400;500;700&display=swap');
+
+
+.bg-lg{
+    background-image: url('../Images/bg1440.png');
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+.bg-md{
+    background-image: url('../Images/bg768.png');
+}
+.bg-sm{
+    background-image: url('../Images/bg320.png');
+}

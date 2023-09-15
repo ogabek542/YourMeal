@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "img":"https://www.seriouseats.com/thmb/hUvDqqa3UrAMurUve7GTTb8f3Hs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__08__20190730-veggie-burger-taste-test-vicky-wasik-trader-joes-vegetarian-masala-hero-603dfbb95360484fb193362b551a4248.jpg",
+        "price":"689",
+        "title":"Мясная бомба",
+        "weight":"520",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 430"
+    },
+    {
+        "id":2,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJXvbw7dZk2JAcQ2M_Utx6Wh5WyuOV1MjOCtlsuCge05eBwMDYdz9LJETHvLZB4lZh0U&usqp=CAU",
+        "price":"550",
+        "title":"Супер сырный",
+        "weight":"512",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 430"
+    },
+    {
+        "id":3,
+        "img":"https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aGFtYnVyZ2VyfGVufDB8fDB8fHww&w=1000&q=80",
+        "price":"639",
+        "title":"Сытный",
+        "weight":"580",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 430"
+    },
+    {
+        "id":4,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMbhXDI9susXsHmuDVt501BLLKVFMzjLGk4Q&usqp=CAU",
+        "price":"480",
+        "title":"Тяжелый удар",
+        "weight":"470",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 430"
+    },
+    {
+        "id":5,
+        "img":"https://media.gettyimages.com/id/1174648824/photo/big-cheese-burger-with-fries.jpg?s=612x612&w=gi&k=20&c=k3qkvPYCJunZgDK39Ys0nNLz9-ZgDM4OoHtzmM8c5tE=",
+        "price":"450",
+        "title":"Вечная классика",
+        "weight":"450",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 430"
+    },
+    {
+        "id":6,
+        "img":"https://img.freepik.com/free-photo/front-view-burger-stand_141793-15542.jpg?w=2000",
+        "price":"560",
+        "title":"Итальянский",
+        "weight":"510",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 430"
+    }
+]

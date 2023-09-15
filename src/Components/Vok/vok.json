@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "img":"https://previews.123rf.com/images/denisenkomax/denisenkomax1511/denisenkomax151100132/48744536-delicious-wok-noodles-box-container-with-udon-and-chicken-on-wooden-table-chinese-and-asian.jpg",
+        "price":"422",
+        "title":"Жареная лапша",
+        "weight":"448",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 513"
+    },
+    {
+        "id":2,
+        "img":"https://images.deliveryhero.io/image/talabat/MenuItems/mmw_637967603457001068",
+        "price":"481",
+        "title":"Рамен",
+        "weight":"445",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 430"
+    },
+    {
+        "id":3,
+        "img":"https://img.freepik.com/premium-photo/wok-in-box-spicy-noodles-in-black-food-container_255847-774.jpg",
+        "price":"503",
+        "title":"Удон",
+        "weight":"495",
+        "description":"Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+        "composition":" Пшеничная булочка Котлета из говядины Красный лук Листья салата Соус горчичный ",
+        "calories":"ккал 630"
+    }
+    
+]
