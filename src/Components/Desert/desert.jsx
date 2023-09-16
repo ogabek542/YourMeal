@@ -16,7 +16,7 @@ const Desert = () => {
             <div className="flex" key={hoootDesert.id}>
               <div className='flex gap-x-[10px]' >
                     <div className='w-[300px] h-[411px] rounded-[12px] gap-x-2 bg-white justify-center items-center text-start p-2 '>
-                    <img onClick={() => {setOpenModal(true)}}  className='rounded-[12px] justify-center w-full h-[220px] cursor-pointer' src={hoootDesert.img} alt={hoootDesert.title} />
+                    <img   className='rounded-[12px] justify-center w-full h-[220px] cursor-pointer' src={hoootDesert.img} alt={hoootDesert.title} />
                     <h3 className='font-semibold text-2xl font-nunito mt-1'>{hoootDesert.price}₽</h3>
                     <h4 className='font-base font-medium font-nunito'>{hoootDesert.title}</h4>
                     <p className='font-base font-semibold font-nunito text-grays-300 mt-[40px]'>{hoootDesert.weight}г</p>

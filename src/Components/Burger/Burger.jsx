@@ -11,7 +11,6 @@ const Burger = ({id,img,price,title,weight,description,composition,calories}) =>
   const cartItems = useSelector((state) => state.cart.itemsList)
   console.log(cartItems)
   const dispatch = useDispatch();
-  // const cartItems = useSelector((state) => state.cart.itemsList);
  
    const addToCart = () => {
       dispatch(cartActions.addToCart({
@@ -37,10 +36,10 @@ const Burger = ({id,img,price,title,weight,description,composition,calories}) =>
 
     <div className='flex flex-wrap mt-[50px] gap-5' >
       {
-        burgerJson.map( burgerApi => {
+        burgerJson.map( (burgerApi,index) => {
           console.log({burgerApi})
         return (
-              <div className="flex" key={burgerApi.id} >
+              <div className="flex" key={index} >
                     <div className='flex gap-x-[10px]' >
                           <div className='w-[300px] h-[411px] rounded-[12px] gap-x-2 bg-white justify-center items-center text-start p-2 '>
                           <img className='rounded-[12px] justify-center w-full h-[220px]' src={burgerApi.img} alt={burgerApi.title} />
